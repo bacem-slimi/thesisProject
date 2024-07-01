@@ -32,7 +32,7 @@ import Swal from 'sweetalert2';
 
 const property = {
   title: "Bordeaux Getaway",
-  location: "Bordeaux, France",
+  location: "Delhi, IN",
   images: [
     "https://via.placeholder.com/800x400",
     "https://via.placeholder.com/800x400",

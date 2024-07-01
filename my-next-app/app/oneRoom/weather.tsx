@@ -38,7 +38,7 @@ const Weather: React.FC<{ location: string }> = ({ location }) => {
   return (
     <Box
       sx={{
-        backgroundImage: 'url(https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148639325.jpg)', // Replace with your own background image URL
+        backgroundImage: 'url(https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148639325.jpg)', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         padding: 2,
